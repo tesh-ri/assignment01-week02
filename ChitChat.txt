@@ -1,0 +1,3 @@
+my 1st challenge in this project:
+waise batana nhi chahiye but sahi btye to bahut funny hai mai n getUserbYID wale mein id k acc.... find kr rha tha user ko but find() fx mein n main n u=>u.id=id krdiya mai waha pe value update kr rha tha aur always i am getting the user data jo ki hai bhi nhi acc to id in userArray but phir bhi after 20min grind krne k baad samj aagya but guysssssssssssssssssssssss maine n kisi bhi AI tools ka use nhi kiya 
+Waise maza aagya guyssssssssssssssssssssss..............................
