@@ -52,6 +52,16 @@ export class UserServices {
           message: 'user data required',
         };
       }
+      //checking whether user already exist or not?
+      let u=this.usersData.find(u=>u.email===data.email)
+       if(u){
+        return{
+          status:400,
+          message:"User already exist"
+        }
+       }
+
+
       if (data.name.trim() === null) {
         return {
           status: 400,
