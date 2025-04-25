@@ -62,7 +62,7 @@ export class UserServices {
        }
 
 
-      if (data.name.trim() === null) {
+      if (data.name.trim() === '') {
         return {
           status: 400,
           message: 'name not to be empty',
